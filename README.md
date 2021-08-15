@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/yoav130193/CodeProject.git">
-        <img src="../buildDotsProject/images/build_dots_logo.jpeg">
+        <img src="images/build_dots_logo.jpeg">
     </a>
 </p>
 
