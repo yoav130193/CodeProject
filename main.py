@@ -19,7 +19,7 @@ def print_hi(name):
     # nump.function()
     # nump.plot()
     pand = pandasExamples()
-    pand.second()
+    #pand.second()
     # pand.one()
 
     # pand.seriesExamples()
